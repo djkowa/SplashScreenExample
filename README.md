@@ -1,4 +1,4 @@
-# colum_app
+# SplashScreen Example
 
 A new Flutter application.
 
